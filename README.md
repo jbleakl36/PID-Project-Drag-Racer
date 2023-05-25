@@ -1,5 +1,11 @@
 # PID-Project-Drag-Racer
 By Joshua and Nick
+# The plan
+We wanted to make a drag racer with PID serving as it's cruise control, and for a long time that was what we were making.
+But we chose to measure it via a photointerupter, which is exactly what a PID wheel does. So we pivoted, to a PID wheel.
+A PID wheel uses a photointerupter to detect the speed of the wheel, that is when we use a rotary motor to change the PID values.
+Everything in a project can be subject to change, make sure to keep that in mind.
+
 # Schedule
 4/18-4/21
 Finish CAD
@@ -85,9 +91,24 @@ steady data to flow so that we can properly undergo PID tuning.
  in the back were at first unable to fully rotate, so we created the axle holder (the white part shown above) to hold said axle in place
  while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy.
 
+# Code
 
 
 
+
+# The Process of Coding
+
+
+
+
+
+
+
+
+
+
+
+# Reflection
 
 
 
