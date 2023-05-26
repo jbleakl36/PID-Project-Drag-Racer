@@ -109,7 +109,13 @@ time turning properly even with the axle holder, eventually it loosened up and b
 
 
 # Reflection
-
+This project got off to a great start. We immediately began to make plans on a simple PID car and we began making it in CAD. The process went well,
+we had good communication with each other and did not waste much time. Make sure to have a plan from the very start as you can get a lot done early on.
+We both designed different parts for the CAD but we made sure to communicate to each other about what we were making. It's very important to have good
+communication with your partner, that is something you should at the very least strive for. The code took a while, Nick took on the mantle of coding.
+While he was doing code I (Joshua) began to document our project. This documentation was way ealier than we planned to on our schedule but honestly,
+documentation can happen at any time. For example let's say you finish all of CAD, you may still have to assemble and code it but you can document
+the CAD it is efficent if you use your time well.
 
 
 
