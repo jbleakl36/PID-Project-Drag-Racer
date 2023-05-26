@@ -89,8 +89,8 @@ steady data to flow so that we can properly undergo PID tuning.
  creating coasters (the pink parts that surrond both wheels) I struggled to find a good size (I initially didn't use a calipher because
  we planned to 3-D print the axle for a short while) until around the 5th attempt which proved successful. The gears and the the axle 
  in the back were at first unable to fully rotate, so we created the axle holder (the white part shown above) to hold said axle in place
- while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy.
-
+ while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy. The gears had a hard
+time turning properly even with the axle holder, eventually it loosened up and began to turn well.
 # Code
 
 
