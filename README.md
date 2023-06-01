@@ -2,7 +2,7 @@
 By Joshua and Nick
 # The Plan
 We wanted to make a drag racer with PID serving as it's cruise control, and for a long time that was what we were making.
-But we chose to measure it via a photointerupter, which is exactly what a PID wheel does. So we pivoted, to a PID wheel.
+But we chose to measure it via a photointerupter, which is exactly what a PID wheel does. So we pivoted, to a PID wheel disguised as a car.
 A PID wheel uses a photointerupter to detect the speed of the wheel, that is when we use a rotary motor to change the PID values.
 Everything in a project can be subject to change, make sure to keep that in mind.
 
@@ -12,7 +12,7 @@ Finish CAD
 
 
 4/24-4/29
-Begin/finish fabricating/ building 
+Begin and finish fabricating
 the physical assembly 
 
 
@@ -32,7 +32,7 @@ Tune PID
 
 
 5/22-5/26
-Begin and finish Documentation
+Begin and finish documentation
 
 
 
