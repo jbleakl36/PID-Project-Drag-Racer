@@ -3,6 +3,7 @@ By Joshua and Nick
 
 # Table Of Contents
 * [The Plan](#The-Plan)
+* [Schedule](#Schedule)
 * [Materials Used](#Materials-Used)
 * [Code](#Code)
 * [Wiring Diagram](#Wiring-Diagram)
