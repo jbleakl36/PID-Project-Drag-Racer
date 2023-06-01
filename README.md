@@ -34,7 +34,17 @@ Begin and finish documentation
 <ul>
   <li>Acrylic</li>
   <li>ABS</li> 
-Dowel Rod, Encoder, Arduino METRO, Prototyping Shield, Wires, 9V Battery Pack, Batteries, DC Motors, Photointerrupter, Screws, and Nuts
+  <li>Dowel Rod</li>
+  <li>Encoder</li>
+  <li>Arduino METRO</li>
+  <li>Prototyping Shield</li>
+  <li>Wires</li>
+  <li>9V Battery Pack</li>
+  <li>Batteries</li>
+  <li>DC Motors</li>
+  <li>Photointerrupter</li>
+  <li>Screws</li>
+  <li>Nuts</li>
 
 # CAD
 ### Onshape Document:
