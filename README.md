@@ -31,7 +31,10 @@ Tune PID
 Begin and finish documentation
 
 # Materials Used
-Acrylic, ABS, Dowel Rod, Encoder, Arduino METRO, Prototyping Shield, Wires, 9V Battery Pack, Batteries, DC Motors, Photointerrupter, Screws, and Nuts
+<ul>
+  <li>Acrylic</li>
+  <li>ABS</li> 
+Dowel Rod, Encoder, Arduino METRO, Prototyping Shield, Wires, 9V Battery Pack, Batteries, DC Motors, Photointerrupter, Screws, and Nuts
 
 # CAD
 ### Onshape Document:
