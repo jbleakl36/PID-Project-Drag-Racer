@@ -1,6 +1,6 @@
 # PID-Project-Drag-Racer
 By Joshua and Nick
-# The plan
+# The Plan
 We wanted to make a drag racer with PID serving as it's cruise control, and for a long time that was what we were making.
 But we chose to measure it via a photointerupter, which is exactly what a PID wheel does. So we pivoted, to a PID wheel.
 A PID wheel uses a photointerupter to detect the speed of the wheel, that is when we use a rotary motor to change the PID values.
@@ -91,22 +91,12 @@ steady data to flow so that we can properly undergo PID tuning.
  in the back were at first unable to fully rotate, so we created the axle holder (the white part shown above) to hold said axle in place
  while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy. The gears had a hard
 time turning properly even with the axle holder, eventually it loosened up and began to turn well.
+
 # Code
 
 
-
-
 # The Process of Coding
-
-
-
-
-
-
-
-
-
-
+The process of coding was a long one. Firsly Nick had to learn how to use adafruit_motor to create a motor using AIN1 and AIN2. He then added in an encoder which would determine setpoint with and without PID. He also added in a photointerrupter and incorporated some of the PID library. At one point Nick used an AI to generate some code because he was struggling with how to find RPM, but the AI code didn't make it into the final product since Mr.Helmstetter was able to help him figure out some of the RPM logic. Mr.Helmstetter helped him add half second intervals between calculating PID and RPM since the two can't happen simultaneously, something Nick spent lots of time trying to get to work before learning about its impossiblitiy. Finally he added code which mapped the encoder to motor power if the encoder is moved in a positive direction and mapped the same thing incoporating PID when the encoder is moved in a negative direction.
 
 # Reflection
 This project got off to a great start. We immediately began to make plans on a simple PID car and we began making it in CAD. The process went well,
