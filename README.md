@@ -1,5 +1,6 @@
 # PID-Project-Drag-Racer
 By Joshua and Nick
+
 # The Plan
 We wanted to make a drag racer with PID serving as it's cruise control, and for a long time that was what we were making.
 But we chose to measure it via a photointerupter, which is exactly what a PID wheel does. So we pivoted, to a PID wheel disguised as a car.
@@ -10,11 +11,9 @@ Everything in a project can be subject to change, make sure to keep that in mind
 4/18-4/21
 Finish CAD
 
-
 4/24-4/29
 Begin and finish fabricating
 the physical assembly 
-
 
 5/1-5/5
 Finish Build
@@ -25,15 +24,14 @@ Finish wiring
 Finish Coding
 Tune PID
 
-
 5/15-5/19
 Tune PID
-
-
 
 5/22-5/26
 Begin and finish documentation
 
+
+# Materials Used
 
 
 
