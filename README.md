@@ -30,26 +30,21 @@ Tune PID
 5/22-5/26
 Begin and finish documentation
 
-
 # Materials Used
-
-
+Acrylic, ABS, Dowel Rod, Encoder, Arduino METRO, Prototyping Shield, Wires, 9V Battery Pack, Batteries, DC Motors, Photointerrupter, Screws, and Nuts
 
 # CAD
-
 ### Onshape Document:
 [Link To Onsahpe Document](https://cvilleschools.onshape.com/documents/8f5f39db37f2e0703270eff9/w/33023e7b24fce4fc84bd36dd/e/18443bddf7985a762db6eef0)
 
 ### Pictures
 ![Full thing](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/0df4b95c-a3e1-4327-9ccc-e9ec51acf320)
 
-
-
 ### Wheels
 ![Big wheel](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/2bbb251b-38d3-4085-83df-4301b831f2f4)
 
 This collection of parts are fully 3-D printed! Used in tandem with the gears and the DC Motors to propel the car forward.
-![small wheels](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/4f03f83c-0f20-4800-8b88-10d253b9f837)
+![Small wheels](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/4f03f83c-0f20-4800-8b88-10d253b9f837)
 
 Wheels are made of acrylic. We used a dowery rod for the axle. The coasters (parts in pink) are used to keep the wheels from slanting
 they were challanging to make due to the fact that the dowery rod has an unconventional size that had to be accomidated for.
