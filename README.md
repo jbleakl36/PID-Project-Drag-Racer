@@ -11,10 +11,7 @@ By Joshua and Nick
 * [Reflection](#Reflection)
 
 # The Plan
-We wanted to make a drag racer with PID serving as it's cruise control, and for a long time that was what we were making.
-But we chose to measure it via a photointerupter, which is exactly what a PID wheel does. So we pivoted, to a PID wheel disguised as a car.
-A PID wheel uses a photointerupter to detect the speed of the wheel, that is when we use a rotary motor to change the PID values.
-Everything in a project can be subject to change, make sure to keep that in mind.
+For this project we planned to make a car using PID to simulate cruise control. Our car design was heavily inspired by the drag racers form last year with the main difference being that we'd have a photointerrupter containing the wheel spokes as a way to track RPM. We'd add an encoder to help change motor speed and the PID setpoint and an H-Bridge to allow for better motor control. 
 
 # Schedule
 4/18-4/21
