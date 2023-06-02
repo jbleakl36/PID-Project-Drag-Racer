@@ -165,6 +165,9 @@ The process of coding was a long one. Firsly Nick had to learn how to use adafru
 ![Big wheel](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/2bbb251b-38d3-4085-83df-4301b831f2f4)
 
 This collection of parts are fully 3-D printed! Used in tandem with the gears and the DC Motors to propel the car forward.
+The screws that held the axle holders in place were higher than expected leading to unwanted friction between the afformentioned screws and axle. 
+This grealty inhibited the axle's movement until we switched to a screw with a smaller top which eliminated all friction.
+         
 ![Small wheels](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/4f03f83c-0f20-4800-8b88-10d253b9f837)
 
 Wheels are made of acrylic. We used a dowel rod for the axle. The coasters (parts in pink) are used to keep the wheels from slanting
