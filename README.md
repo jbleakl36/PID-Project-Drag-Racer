@@ -223,7 +223,8 @@ time turning properly even with the axle holder, eventually it loosened up and b
           
 ![front right of car](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/9919919a-d377-4cdd-b07c-8becdd3accf4)
 ![back right of car](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/c42aa870-b285-4e06-bd08-a0c4fe1e182e)
-    
+![ezgif com-optimize](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/4be491ba-0e8e-4ab6-9b21-4dfcec132d9a)
+          
 # Reflection
 This project got off to a great start. We immediately began to make plans on a simple PID car and we began making it in CAD. The process went well,
 we had good communication with each other and did not waste much time. Make sure to have a plan from the very start as you can get a lot done early on.
