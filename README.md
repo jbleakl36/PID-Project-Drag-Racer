@@ -107,8 +107,8 @@ steady data to flow so that we can properly undergo PID tuning.
  drill in the holes that were missing from the final part (makes sure to always double check your drawing, hit the refresh button 
  while your at it!). Unfortunatly Nick drilled the holes in the wrong spots (for the metro specifically) so we eventually had to 
  re-print the car body as we also in tandem with the missing holes added more holes for more parts (Nick still did a good job on the 
- drilling despite the errors along the way). Next up were the wheels, now the front wheels used a Dowery rod as the axle which when 
- creating coasters (the pink parts that surrond both wheels) I struggled to find a good size (I initially didn't use a calipher because
+ drilling despite the errors along the way). Next up were the wheels, now the front wheels used a dowel rod as the axle which when 
+ creating coasters (the pink parts that surrond both wheels) Joshua struggled to find a good size (he initially didn't use a caliper because
  we planned to 3-D print the axle for a short while) until around the 5th attempt which proved successful. The gears and the the axle 
  in the back were at first unable to fully rotate, so we created the axle holder (the white part shown above) to hold said axle in place
  while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy. The gears had a hard
@@ -117,11 +117,15 @@ time turning properly even with the axle holder, eventually it loosened up and b
 # Reflection
 This project got off to a great start. We immediately began to make plans on a simple PID car and we began making it in CAD. The process went well,
 we had good communication with each other and did not waste much time. Make sure to have a plan from the very start as you can get a lot done early on.
-We both designed different parts for the CAD but we made sure to communicate to each other about what we were making. It's very important to have good
-communication with your partner, that is something you should at the very least strive for. The code took a while, Nick took on the mantle of coding.
-While he was doing code I (Joshua) began to document our project. This documentation was way ealier than we planned to on our schedule but honestly,
-documentation can happen at any time. For example let's say you finish all of CAD, you may still have to assemble and code it but you can document
-the CAD it is efficent if you use your time well.
+This was our main fault with the project, we failed to have a concrete plan of what we were doing and as a result many missteps took place. Holes weren't
+added, an encoder wasn't added, minor design faults took place, and the code took vastle more effor than it should've given we were ignorant to the PID
+library we were given for the first month or so of the project. Nevertheless we both designed different parts for the CAD but we made sure to communicate 
+to each other about what we were making. It's very important to have good communication with your partner, that is something you should at the very least strive for.
+Another fault that took place was the prospect of both of us working on CAD. After we had finished all that was left was code and documentation. Nick took on the code 
+which took astronomically longer than any documentation Joshua could have done. This often left Joshua with little to do and Nick left to his own devices.
+As the clock runs down on the time left to work on this project Nick wishes he had left Joshua to do the CAD and started doing code from the beginning. He also wishes
+he had done a little more research about PID through either online sources or past Engineering projects which would've given him a better perspective on how
+he should approach coding.
 
 
 
