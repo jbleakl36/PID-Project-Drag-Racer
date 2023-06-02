@@ -8,6 +8,7 @@ By Joshua and Nick
 * [Code](#Code)
 * [Wiring Diagram](#Wiring-Diagram)
 * [CAD](#CAD)
+* [Photos and Videos](#Photos-and-Videos)
 * [Reflection](#Reflection)
 
 # The Plan
@@ -216,6 +217,9 @@ in the back were at first unable to fully rotate, so we created the axle holder 
 while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy. The gears had a hard
 time turning properly even with the axle holder, eventually it loosened up and began to turn well.
 
+#Photos and Videos          
+          
+          
 # Reflection
 This project got off to a great start. We immediately began to make plans on a simple PID car and we began making it in CAD. The process went well,
 we had good communication with each other and did not waste much time. Make sure to have a plan from the very start as you can get a lot done early on.
