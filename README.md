@@ -202,18 +202,18 @@ steady data to flow so that we can properly undergo PID tuning. We made sure to 
 so we could adjust it as needed even after fabrication.
 
 # Assembly/Construction of the Vehicle
- Assembly came rather fast in the development of our project. We first created a drawing containing all of our acryllic parts.
- After that was printed we exported every part that we wanted to be 3-D printed. Time passes and eventually we get our 3-D parts,
- it was always exciting when this happened because that mean't that we could advance further into the development of our project.
- The first major problem we had was the fact that our car body had no holes for the battery pack and the metro. So Nick proceded to
- drill in the holes that were missing from the final part (makes sure to always double check your drawing, hit the refresh button 
- while your at it!). Unfortunatly Nick drilled the holes in the wrong spots (for the metro specifically) so we eventually had to 
- re-print the car body as we also in tandem with the missing holes added more holes for more parts (Nick still did a good job on the 
- drilling despite the errors along the way). Next up were the wheels, now the front wheels used a dowel rod as the axle which when 
- creating coasters (the pink parts that surrond both wheels) Joshua struggled to find a good size (he initially didn't use a caliper because
- we planned to 3-D print the axle for a short while) until around the 5th attempt which proved successful. The gears and the the axle 
- in the back were at first unable to fully rotate, so we created the axle holder (the white part shown above) to hold said axle in place
- while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy. The gears had a hard
+Assembly came rather fast in the development of our project. We first created a drawing containing all of our acryllic parts.
+After that was printed we exported every part that we wanted to be 3-D printed. Time passes and eventually we get our 3-D parts,
+it was always exciting when this happened because that mean't that we could advance further into the development of our project.
+The first major problem we had was the fact that our car body had no holes for the battery pack and the metro. So Nick proceded to
+drill in the holes that were missing from the final part (makes sure to always double check your drawing, hit the refresh button 
+while your at it!). Unfortunatly Nick drilled the holes in the wrong spots (for the metro specifically) so we eventually had to 
+re-print the car body as we also in tandem with the missing holes added more holes for more parts (Nick still did a good job on the 
+drilling despite the errors along the way). Next up were the wheels, now the front wheels used a dowel rod as the axle which when 
+creating coasters (the pink parts that surrond both wheels) Joshua struggled to find a good size (he initially didn't use a caliper because
+we planned to 3-D print the axle for a short while) until around the 5th attempt which proved successful. The gears and the the axle 
+in the back were at first unable to fully rotate, so we created the axle holder (the white part shown above) to hold said axle in place
+while rotation was at hand. Sometimes the coasters come loose which is an issue cause it makes the small wheels unwieldy. The gears had a hard
 time turning properly even with the axle holder, eventually it loosened up and began to turn well.
 
 # Reflection
@@ -227,7 +227,8 @@ Another fault that took place was the prospect of both of us working on CAD. Aft
 which took astronomically longer than any documentation Joshua could have done. This often left Joshua with little to do and Nick left to his own devices.
 As the clock runs down on the time left to work on this project Nick wishes he had left Joshua to do the CAD and started doing code from the beginning. He also wishes
 he had done a little more research about PID through either online sources or past Engineering projects which would've given him a better perspective on how
-he should approach coding.
+he should approach coding. At this point in time the PID portion of the code is barely functional. It shows small signs of auto correction in an attempt to reach a setpoint but lacks any success.
+Otherwise all other portions of code work. Motor speed without PID functions as it should, the encoder itself works, and the photointerrupter accurately calculates RPM for the wheels.
 
 
 
