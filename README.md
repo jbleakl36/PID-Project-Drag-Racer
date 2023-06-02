@@ -12,7 +12,7 @@ By Joshua and Nick
 * [Reflection](#Reflection)
 
 # The Plan
-For this project we planned to make a car using PID to simulate cruise control. Our car design was heavily inspired by the drag racers form last year with the main difference being that we'd have a photointerrupter containing the wheel spokes as a way to track RPM. We'd add an encoder to help change motor speed and the PID setpoint and an H-Bridge to allow for better motor control. We had a fairly general idea of what we wanted to build and spent little time creating concrete planning sketches, the only real time spent planning was estimating our schedule.
+For this project we planned to make a car using PID to simulate cruise control. Our car design was heavily inspired by the drag racers form last year with the main difference being that we'd have a photointerrupter containing the wheel spokes as a way to track RPM. We'd add an encoder to help change motor speed and the PID setpoint and an H-Bridge to allow for better motor control. We had a fairly general idea of what we wanted to build and spent little time creating concrete planning sketches, the only real time spent planning was estimating our schedule. The majority of our refrence drawings existed in real life as Gabe and Carolina's drag racer, of which we refrenced for the majority of our CAD design intent.
 
 # Schedule
 4/18-4/21
