@@ -75,8 +75,8 @@ The process of coding was a long one. Firsly Nick had to learn how to use adafru
 This collection of parts are fully 3-D printed! Used in tandem with the gears and the DC Motors to propel the car forward.
 ![Small wheels](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/4f03f83c-0f20-4800-8b88-10d253b9f837)
 
-Wheels are made of acrylic. We used a dowery rod for the axle. The coasters (parts in pink) are used to keep the wheels from slanting
-they were challanging to make due to the fact that the dowery rod has an unconventional size that had to be accomidated for.
+Wheels are made of acrylic. We used a dowel rod for the axle. The coasters (parts in pink) are used to keep the wheels from slanting
+they were challanging to make due to the fact that the dowel rod has an unconventional size that had to be accomidated for.
 
 ### DC Motor, Gears, and Brackets
 ![DC](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/899338d7-f561-418d-af17-b26badcfd963)
@@ -88,10 +88,11 @@ The gears are attached to the DC Motors, they are friction fit. Nick designed sp
 ![Body](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/603f1cd5-2ab4-4c82-b97f-689d4e46f99d)
 
 This piece has undergone many changes, mostly just adding new holes for the increasing roster of parts that we needed.
+  
 ### Axle Holder
 ![Holy savior](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/758b952c-f8f8-447c-8c79-90c5b89f197b)
 
-This little guy holds the back axle which makes sure that it can rotate properly
+This little guy holds the back axle which makes sure that it can rotate properly.
 
 ### Photointerupter Bracket
 ![Photo broto](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/77274ff6-117c-4737-afc9-909c6acce2d5)
