@@ -158,7 +158,9 @@ The process of coding was a long one. Firsly Nick had to learn how to use adafru
 ### Onshape Document:
 [Link To Onsahpe Document](https://cvilleschools.onshape.com/documents/8f5f39db37f2e0703270eff9/w/33023e7b24fce4fc84bd36dd/e/18443bddf7985a762db6eef0)
 
-### Pictures
+## Pictures
+                     
+### Final Product
 ![Full thing](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/0df4b95c-a3e1-4327-9ccc-e9ec51acf320)
 
 ### Wheels
