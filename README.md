@@ -13,11 +13,8 @@ By Joshua and Nick
 
 # The Plan
 For this project we planned to make a car using PID to simulate cruise control. Our car design was heavily inspired by the drag racers form last year with the main difference being that we'd have a photointerrupter containing the wheel spokes as a way to track RPM. We'd add an encoder to help change motor speed and the PID setpoint and an H-Bridge to allow for better motor control. We had a fairly general idea of what we wanted to build and spent little time creating concrete planning sketches, the only real time spent planning was estimating our schedule. The majority of our refrence drawings existed in real life as Gabe and Carolina's drag racer, of which we refrenced for the majority of our CAD design intent.
-![0](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/e68a47d4-820d-4ab0-b661-5777c5cba62e)
 
-![0](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/aecf2d66-8668-4dc2-b7cc-0604da261f39)
-
-![0](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/a8363c33-c638-4a49-b82f-5c0e3a4e62da)
+![Gabe and Carolina's Card](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/a413a6db-5b6b-4a46-bb31-f8d95bd319a7)
 
 # Schedule
 4/18-4/21
