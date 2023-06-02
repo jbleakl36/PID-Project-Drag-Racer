@@ -177,23 +177,27 @@ they were challanging to make due to the fact that the dowel rod has an unconven
 ![DC](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/899338d7-f561-418d-af17-b26badcfd963)
 ![DC 2](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/4338db37-61f9-4956-9b24-7d33b60ecae7)
 
-The gears are attached to the DC Motors, they are friction fit. Nick designed specialized 3-D Parts that keep the motors in place.
-
+The gears are attached to the DC Motors using friction fit and two brackets were designed to bind the motors to the base plate, one from the side and one from the back.
+The brackets required a second iteration because we were working on such a small scale for them that we ended up making them too thin ad frail causing them to break at the sides of the screw hole.
+          
 ### Car Body
 ![Body](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/603f1cd5-2ab4-4c82-b97f-689d4e46f99d)
 
-This piece has undergone many changes, mostly just adding new holes for the increasing roster of parts that we needed.
+This piece has undergone many changes, mostly just adding new holes for the increasing roster of parts that we needed. Firstly we forgot to update our drawing before laser cutting meaning we 
+lacked holes for both our arduino and battery pack. Secondarily we had to then add two holes for a switch and an encoder which we failed to consider in the intial design phase.
   
 ### Axle Holder
 ![Holy savior](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/758b952c-f8f8-447c-8c79-90c5b89f197b)
 
-This little guy holds the back axle which makes sure that it can rotate properly.
+This little guy holds the back axle which makes sure that it can rotate properly. Before adding this axle holder our gears rotational movement translated directly into backwards movement which forced the axle to
+flex backward rather than rotate. Adding this holder stabalized the axle preventing any backward movement and forcing its rotation.
 
 ### Photointerupter Bracket
 ![Photo broto](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/77274ff6-117c-4737-afc9-909c6acce2d5)
 
 This piece is designed to hold the photointerupter in place so it can detect the movement of the wheels thus allowing 
-steady data to flow so that we can properly undergo PID tuning.
+steady data to flow so that we can properly undergo PID tuning. We made sure to add a large amount of variation for the photointerrupter positioning
+so we could adjust it as needed even after fabrication.
 
 # Assembly/Construction of the Vehicle
  Assembly came rather fast in the development of our project. We first created a drawing containing all of our acryllic parts.
