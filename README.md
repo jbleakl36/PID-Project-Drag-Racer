@@ -119,7 +119,7 @@ time turning properly even with the axle holder, eventually it loosened up and b
 This project got off to a great start. We immediately began to make plans on a simple PID car and we began making it in CAD. The process went well,
 we had good communication with each other and did not waste much time. Make sure to have a plan from the very start as you can get a lot done early on.
 This was our main fault with the project, we failed to have a concrete plan of what we were doing and as a result many missteps took place. Holes weren't
-added, an encoder wasn't added, minor design faults took place, and the code took vastle more effor than it should've given we were ignorant to the PID
+added, an encoder wasn't added, minor design faults took place, and the code took vastly more effort than it should've given we were ignorant to the PID
 library we were given for the first month or so of the project. Nevertheless we both designed different parts for the CAD but we made sure to communicate 
 to each other about what we were making. It's very important to have good communication with your partner, that is something you should at the very least strive for.
 Another fault that took place was the prospect of both of us working on CAD. After we had finished all that was left was code and documentation. Nick took on the code 
