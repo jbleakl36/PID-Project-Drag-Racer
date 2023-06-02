@@ -65,7 +65,9 @@ The process of coding was a long one. Firsly Nick had to learn how to use adafru
 # Wiring Diagram
 ![PID Wiring Diagram](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/47f96ed1-2691-4050-9e69-50d1b6a7920e)
 
-<img style="border:1px solid black;" src="https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/47f96ed1-2691-4050-9e69-50d1b6a7920e"/>
+<img = src="https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/47f96ed1-2691-4050-9e69-50d1b6a7920e" {
+  border: 5px solid #555;
+}/>
 
 # CAD
 ### Onshape Document:
