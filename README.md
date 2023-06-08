@@ -16,7 +16,7 @@ For this project we planned to make a car using PID to simulate cruise control. 
 
 ![Gabe and Carolina's Card](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/a413a6db-5b6b-4a46-bb31-f8d95bd319a7)
 
-This is an image of Gabe and Carolina's Car which we used for inspiration.
+<caption>This is an image of Gabe and Carolina's Car which we used for inspiration.</caption>
 
 # Schedule
 4/18-4/21
