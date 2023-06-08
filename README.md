@@ -202,7 +202,8 @@ This grealty inhibited the axle's movement until we switched to a screw with a s
          
 ![Small wheels](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/4f03f83c-0f20-4800-8b88-10d253b9f837)
 
-Wheels are made of acrylic. We used a dowel rod for the axle. The coasters (parts in pink) are used to keep the wheels from slanting
+Wheels are made of acrylic. We used a dowel rod for the axle. We used a dowel rod as the axle mainly because it's what Gabe and 
+Carolina used, but also saved the labs materials. The coasters (parts in pink) are used to keep the wheels from slanting
 they were challanging to make due to the fact that the dowel rod has an unconventional size that had to be accomidated for.
 
 ### DC Motor, Gears, and Brackets
