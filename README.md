@@ -225,15 +225,15 @@ time turning properly even with the axle holder, eventually it loosened up and b
           
 ![front right of car](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/9919919a-d377-4cdd-b07c-8becdd3accf4)
           
-This is an image of the front of our final product. 
+This is an image of the front of our final product. This specifically shows off our wiring and our ability to fit all components of our project in a fashionable manor on the front of our car.
           
 ![back right of car](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/c42aa870-b285-4e06-bd08-a0c4fe1e182e)
           
-This is an image of the back of our final prodcut.          
+This is an image of the back of our final prodcut. This shows off our axle and gear relation and our crafstmanship in creating the main workings of our car.        
           
 ![ezgif com-optimize](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/4be491ba-0e8e-4ab6-9b21-4dfcec132d9a)
      
-This is a gif of our car gradually speeding up. 
+This is a gif of our car gradually speeding up. This shows that our car functions and all of the work and planning up this point came to fruition in this gif.
           
 # Reflection
 This project got off to a great start. We immediately began to make plans on a simple PID car and we began making it in CAD. The process went well,
