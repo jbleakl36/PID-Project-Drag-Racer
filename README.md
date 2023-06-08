@@ -189,6 +189,7 @@ while True:
 ### Final Product
 ![Full thing](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/0df4b95c-a3e1-4327-9ccc-e9ec51acf320)
 
+This is the entire assembly of the project on onshape. Colors were added for distinctiveness.                     
 ### Wheels
 ![Big wheel](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/112979207/2bbb251b-38d3-4085-83df-4301b831f2f4)
 
