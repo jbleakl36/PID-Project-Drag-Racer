@@ -58,6 +58,9 @@ Tune PID
 5/22-5/26
 Begin and finish documentation
 
+If we were taking extra long on a certain step, we made a plan to combat this. If one of us is taking a while (i.e. Nick with code)
+then the other would begin working on another step like documentation for example. We did this because we didn't want either one of
+us to be left with nothing to do, there is always something to do.
 # Materials Used
 <ul>
   <li>Acrylic</li>
