@@ -57,6 +57,9 @@ Begin and finish documentation
 
 # Code
 
+# The Process of Coding
+The process of coding was a long one. Firsly Nick had to learn how to use adafruit_motor to create a motor using AIN1 and AIN2. He then added in an encoder which would determine setpoint with and without PID. He also added in a photointerrupter and incorporated some of the PID library. At one point Nick used an AI to generate some code because he was struggling with how to find RPM, but the AI code didn't make it into the final product since Mr.Helmstetter was able to help him figure out some of the RPM logic. Mr.Helmstetter also helped him add half second intervals between calculating PID and RPM since the two can't happen simultaneously, something Nick spent lots of time trying to get to work before learning about its impossiblitiy. Finally he added code which mapped the encoder to motor power if the encoder value is positive. He then mapped the same thing incoporating PID when the encoder value is negative.  
+  
 ```python  
 import time #import files
 import board
@@ -150,9 +153,6 @@ while True:
                      
 ### GitHub Code: 
 [PID Cruise Control](https://github.com/nbednar2929/CircuitPython/blob/master/PID_Cruise_Control)
-
-# The Process of Coding
-The process of coding was a long one. Firsly Nick had to learn how to use adafruit_motor to create a motor using AIN1 and AIN2. He then added in an encoder which would determine setpoint with and without PID. He also added in a photointerrupter and incorporated some of the PID library. At one point Nick used an AI to generate some code because he was struggling with how to find RPM, but the AI code didn't make it into the final product since Mr.Helmstetter was able to help him figure out some of the RPM logic. Mr.Helmstetter also helped him add half second intervals between calculating PID and RPM since the two can't happen simultaneously, something Nick spent lots of time trying to get to work before learning about its impossiblitiy. Finally he added code which mapped the encoder to motor power if the encoder value is positive. He then mapped the same thing incoporating PID when the encoder value is negative.  
   
 # Wiring Diagram
 ![PID Wiring Diagram](https://github.com/jbleakl36/PID-Project-Drag-Racer/assets/91289646/47f96ed1-2691-4050-9e69-50d1b6a7920e)
