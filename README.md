@@ -63,6 +63,10 @@ Begin and finish documentation
 The process of coding was a long one. Firsly Nick had to learn how to use adafruit_motor to create a motor using AIN1 and AIN2. He then added in an encoder which would determine setpoint with and without PID. He also added in a photointerrupter and incorporated some of the PID library. At one point Nick used an AI to generate some code because he was struggling with how to find RPM, but the AI code didn't make it into the final product since Mr.Helmstetter was able to help him figure out some of the RPM logic. Mr.Helmstetter also helped him add half second intervals between calculating PID and RPM since the two can't happen simultaneously, something Nick spent lots of time trying to get to work before learning about its impossiblitiy. Finally he added code which mapped the encoder to motor power if the encoder value is positive. He then mapped the same thing incoporating PID when the encoder value is negative.  
   
 ```python  
+#Nick Bednar and Joshua Bleakly
+#PID Car Cruise Control
+#This code calculates rpm using a photointerrupter reading the spokes of a wheel and controls the speed of the car using PID.
+  
 import time #import files
 import board
 import pwmio
